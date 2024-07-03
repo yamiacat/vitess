@@ -10,6 +10,8 @@ A meaningless change in my fork.
 
 ☝️ That change was made in a codespace, but this one was made on the web.
 
+This change made locally in VS Code.
+
 Vitess is a database clustering system for horizontal scaling of MySQL
 through generalized sharding.
 
